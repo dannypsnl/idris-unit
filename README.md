@@ -5,7 +5,7 @@ The project is a unit test framework for [idris2](https://idris2.readthedocs.io/
 ### Installation
 
 ```shell
-git clone git@github.com:dannypsnl/control-spec.git
+git clone https://github.com/dannypsnl/control-spec.git
 cd control-spec && pack install control-spec
 # install spec-discover
 pack install-app control-spec
